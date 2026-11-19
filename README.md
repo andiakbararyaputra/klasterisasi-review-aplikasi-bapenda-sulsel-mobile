@@ -21,6 +21,10 @@
 
 ---
 
+## Preview
+
+![Visualisasi Klastering PSO-K-Means](bapenda-clustering-preview.png)
+
 ## 👥 Anggota
 
 <div align="center">
